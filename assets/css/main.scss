@@ -2,7 +2,7 @@
 # Jekyll automatically transpiles this file; access via {{site.url}}/assets/css/main.css
 ---
 
-$background_image: '{{site.background_image}}';
+$background_image: '{{ site.url  }}/{{  site.baseurl  }}/images/main.jpeg';
 
 @import 'libs/vars';
 @import 'libs/functions';
