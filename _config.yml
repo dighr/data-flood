@@ -3,8 +3,8 @@ title:              Taking Advantage of the Data Flood
 bio:                'DIGHR Website'
 description:        "An invite-only international workshop hosted by the Dahdaleh Institute for Global Health Research (DIGHR) and the Lassonde School of Engineering (LSE) at York University that brings together leading humanitarian agencies, data scientists, and developers to collaborate on urgent data-related challenges in humanitarian response."
 locale:             en_US
-baseurl: "/data-flood/" # the subpath of your site, e.g. /blog
-url: "https://richardt22.github.io/data-flood/" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /thank-you
