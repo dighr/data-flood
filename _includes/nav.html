@@ -1,10 +1,13 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>    
+    
  
-    <!-- Remove Extra Pages
+    <!-- Remove Extra Pages From Nav
     <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
   <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li>
      <li class="{% if page.url contains '/test/' %} active {% endif %}"><a href="{{ "/test/" | absolute_url }}">Test</a></li>
+<li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Blog</a></li>
+    
 -->
 </ul>
 
