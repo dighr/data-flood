@@ -4,15 +4,21 @@ title: Testing About Page Layout
 description: This is a test of the page layout.
 ---
 
+<!-- Image Linked-->
 <header class="major"><h2>{{ page.title }}</h2></header>
 <a class="image main"><img src="{{ "/images/picture1.jpg"  | absolute_url }}" alt="About" /></a>
+
+<!-- Image Left v1-->
 
 <span class="image left"><img src="{{ "/images/picture1.jpg" | absolute_url }}" alt="" /></span>
 1st Way to image left - An invite-only international workshop hosted by the **Dahdaleh Institute for Global Health Research** (DIGHR) and the **Lassonde School of Engineering** (LSE) at York University that brings together leading humanitarian agencies, data scientists, and developers to collaborate on urgent data-related challenges in humanitarian response.
 
+<!-- Image Left v2-->
 <p style="clear: both"><span class="image left"><img src="{{ "/images/picture1.jpg" | absolute_url }}" alt="" /></span>
     2nd Way to image left- An invite-only international workshop hosted by the **Dahdaleh Institute for Global Health Research** (DIGHR) and the **Lassonde School of Engineering** (LSE) at York University that brings together leading humanitarian agencies, data scientists, and developers to collaborate on urgent data-related challenges in humanitarian response.</p>
 
+<!-- Image Fit-->
+<span class="image fit"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></span>
 
 
 <!--
