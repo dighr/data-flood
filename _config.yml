@@ -5,7 +5,7 @@ description:        "An invite-only international workshop hosted by the Dahdale
 locale:             en_US
 baseurl: "/data-flood" # the subpath of your site, e.g. /blog
 url: "https://richardt22.github.io" # the base hostname & protocol for your site
-background_image:   https://richardt22.github.io/data-flood/images/main.jpeg
+background_image:   /data-flood/images/main.jpeg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /data-flood/thank-you
 
