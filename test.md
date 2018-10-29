@@ -5,7 +5,7 @@ description: This is a test of the page layout.
 ---
 
 <!-- Image Linked-->
-<header class="major"><h2>{{ page.title }}</h2></header>
+<<h1>{{ page.title }}</h1>
 <a class="image main"><img src="{{ "/images/picture1.jpg"  | absolute_url }}" alt="About" /></a>
 
 <!-- Image Left v1-->
