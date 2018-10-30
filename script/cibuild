@@ -1,2 +1,2 @@
-gem install jekyll html-proofer
-bundle exec jekyll build
+install: gem install jekyll && gem install html-proofer
+script: bundle exec jekyll build
