@@ -58,7 +58,12 @@ sitemap:
                                 <p>3 "{{ site.baseurl }}/images/picture1.jpeg"</p>
                                 
                                 <div class="image-container">
-								    <img src="{{ site.baseurl }}/images/picture1.jpeg" alt="About" style="width:100%"/></a>
+								    <img src="{{ "/images/picture1.jpeg"  | absolute_url }}" alt="About" style="width:100%"/></a>
+                                    <div class="image-centered-text"><h1>About the Event</h1></div>
+                                </div>
+                        
+                                <div class="image-container">
+								    <img src="{{ "/images/picture1.jpeg"  | relative_url }}" alt="About" style="width:100%"/></a>
                                     <div class="image-centered-text"><h1>About the Event</h1></div>
                                 </div>
                                 
