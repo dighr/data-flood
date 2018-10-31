@@ -9,11 +9,11 @@ rvm:
 # the `install` step will run `bundle install` by default.
 install: 
     - gem install jekyll html-proofer bundler
-#    - gem install s3_website
+    - gem install s3_website
 script: 
     - bundle install
     - bundle exec jekyll build && htmlproofer ./_site
-#after_success: s3_website push
+after_success: s3_website push
 
 # branch whitelist, only for GitHub Pages
 branches:
@@ -38,8 +38,8 @@ cache: bundler # caching bundler gem packages will speed up build
 notifications:
   email: false
   
-deploy:
-  provider: s3
-  access_key_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
-  secret_access_key: <%= ENV['S3_SECRET_KEY'] %>
-  bucket: data-flood
+# deploy:
+#  provider: s3
+#  access_key_id: <%= ENV['S3_ACCESS_KEY_ID'] %>
+#  secret_access_key: <%= ENV['S3_SECRET_KEY'] %>
+#  bucket: data-flood
