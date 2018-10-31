@@ -16,7 +16,7 @@
 
 				<!-- Header -->
         <header id="header">
-          <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+          <a href="{{ site.baseurl }}/" class="logo">{{site.title}}</a>
         </header>
 
 				<!-- Nav -->
@@ -34,7 +34,7 @@
       				<h1>{{page.title}}</h1>
       				<p>{{page.excerpt}}</p>
       			</header>
-      			<div class="image main"><img src="{{page.image | absolute_url}}" alt=""></div>
+      			<div class="image main"><img src="{{ site.baseurl }}/{{page.image}}" alt=""></div>
       			<p>{{content}}</p>
       		</section>
 
@@ -67,7 +67,7 @@
 					<!-- Footer -->
 						<footer>
               <ul class="actions">
-                <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+                <li><a href="{{ site.baseurl }}/blog/" class="button">Our Blog</a></li>
               </ul>
 						</footer>
 					</div>
