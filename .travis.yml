@@ -7,10 +7,11 @@ rvm:
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-install: gem install jekyll html-proofer bundler
+install: gem install jekyll html-proofer bundler s3_website
 script: 
     - bundle install
     - bundle exec jekyll build && htmlproofer ./_site
+after_success: s3_website push
 
 # branch whitelist, only for GitHub Pages
 branches:
