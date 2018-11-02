@@ -99,7 +99,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  ffi (~> 1.9.24)
   html-proofer
   jekyll (~> 3.6.3)
   jekyll-feed
