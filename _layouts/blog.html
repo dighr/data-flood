@@ -54,7 +54,7 @@
 						{% for post in site.posts %}
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
-
+                                <p>Test</p>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
 									<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
