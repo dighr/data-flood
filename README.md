@@ -28,13 +28,13 @@ script:
     - bundle exec jekyll build
 after_success: s3_website push
 ```
-3. Install s3_website
+3. Install s3_website https://github.com/laurilehmijoki/s3_website
 ```
 gem install s3_website
 ```
-2. Create s3_website.yml
-3. On Travis create environmental keys for AWS Access and Secret Key
-4. Paste Access and Secret Key into s3_website.yml, and bucket id
+4. Create s3_website.yml
+5. On Travis create environmental keys for AWS Access and Secret Key
+6. Paste Access and Secret Key into s3_website.yml, and bucket id
 
 ## Credits
 ```
