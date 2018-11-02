@@ -34,7 +34,7 @@ gem install s3_website
 ```
 4. Create s3_website.yml
 5. On Travis for the current repo create environmental keys for AWS Access and Secret Key
-6. Paste Access and Secret Key into s3_website.yml, and bucket id
+6. Paste Access Key, Secret Key, and bucket id into s3_website.yml
 7. When you push to GitHub, Travis and s3_website will push to AWS S3
 
 ## Credits
