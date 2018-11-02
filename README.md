@@ -15,7 +15,7 @@
 10. Paste file into desired folder. Ex. /blog
 11. Access encrypted page through folder
 
-# Uploading site to Amazon Web Services S3
+# Uploading Site to Amazon Web Services S3
 
 1. Configure travis.yml through https://jekyllrb.com/docs/continuous-integration/travis-ci/
 2. Add the following commands into travis.yml
@@ -35,7 +35,7 @@ gem install s3_website
 4. Create s3_website.yml
 5. On Travis for the current repo create environmental keys for AWS Access and Secret Key
 6. Paste Access and Secret Key into s3_website.yml, and bucket id
-7. When you push to GitHub, s3_website will push to AWS S3
+7. When you push to GitHub, Travis and s3_website will push to AWS S3
 
 ## Credits
 ```
