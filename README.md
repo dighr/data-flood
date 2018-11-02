@@ -4,7 +4,7 @@
 # Creating Password Encrypted Page
 
 1. Create the markdown page
-2. Load it in browser
+2. Load it in browser online
 3. Right click, view source, and copy
 4. Goto https://robinmoisson.github.io/staticrypt/
 5. Enter a password for page
