@@ -37,6 +37,12 @@ gem install s3_website
 6. Paste Access Key, Secret Key, and bucket id into s3_website.yml
 7. When you push to GitHub, Travis and s3_website will push to AWS S3
 
+# Amazon S3 and CloudFront
+
+- S3 link is http://data-flood.s3-website-us-east-1.amazonaws.com
+- CloudFront link is http://dgvi5kwtyqanc.cloudfront.net/
+- CloudFront installation: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html#GettingStartedUploadContent
+
 ## Credits
 ```
 Credits:
