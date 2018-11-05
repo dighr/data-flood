@@ -4,7 +4,7 @@
 # Creating Password Encrypted Page
 
 1. Create the markdown page
-2. Load it in browser online
+2. Load it in browser online from GitHub Pages
 3. Right click, view source, and copy
 4. Goto https://robinmoisson.github.io/staticrypt/
 5. Enter a password for page
@@ -36,6 +36,12 @@ gem install s3_website
 5. On Travis for the current repo create environmental keys for AWS Access and Secret Key
 6. Paste Access Key, Secret Key, and bucket id into s3_website.yml
 7. When you push to GitHub, Travis and s3_website will push to AWS S3
+
+# Amazon S3 and CloudFront
+
+- S3 link is http://data-flood.s3-website-us-east-1.amazonaws.com
+- CloudFront link is http://dgvi5kwtyqanc.cloudfront.net/
+- CloudFront installation: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html#GettingStartedUploadContent
 
 ## Credits
 ```
