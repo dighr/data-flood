@@ -1,5 +1,5 @@
 _site
 _site/
 .DS_Store
-.sass-cache
+.sass-cacheds
 vendor/**

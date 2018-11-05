@@ -56,14 +56,15 @@
 							<article>
                                 <p>Testing "{{ site.baseurl }}/{{ post.url }}"</p>
                                 <p>Testing {{ site.baseurl }}/{{ post.url }}</p>
+                                <p>Testing {{ site.url }}/{{ post.url }}</p>
 								<header>
 									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></h2>
+									<h2><a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></h2>
 								</header>
-								<a href="{{ site.baseurl }}/{{ post.url }}" class="image fit"><img src="{{ site.baseurl }}{{ post.image }}" alt="" /></a>
+								<a href="{{ site.url }}/{{ post.url }}" class="image fit"><img src="{{ site.baseurl }}{{ post.image }}" alt="" /></a>
 								<p>{{ post.excerpt }}</p>
 								<ul class="actions">
-									<li><a href="{{ site.baseurl }}/{{ post.url }} class="button">Full Story</a></li>
+									<li><a href="{{ site.url }}/{{ post.url }} class="button">Full Story</a></li>
 								</ul>
 							</article>
 							{% if mod3 == 0 %}
