@@ -51,38 +51,7 @@
           </article>
 					<!-- Post -->
 					<section class="posts">
-                        
-                        {% for post in paginator.posts %}
-                            <article>
-								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
-									<h2><a href="{{ site.url }}/{{ post.url }}">{{ post.title }}</a></h2>
-								</header>
-								<a href="{{ site.url }}/{{ post.url }}" class="image fit"><img src="{{ site.baseurl }}{{ post.image }}" alt="" /></a>
-								<p>{{ post.excerpt }}</p>
-								<ul class="actions">
-									<li><a href="{{ site.url }}/{{ post.url }}" class="button">Full Story</a></li>
-								</ul>
-							</article>
-                        {% endfor %}
-                        
-                        {% if paginator.total_pages > 1 %}
-                        <ul>
-                          {% if paginator.previous_page %}
-                          <li>
-                            <a href="{{ site.baseurl }}/paginator.previous_page_path">Newer</a>
-                          </li>
-                          {% endif %}
-                          {% if paginator.next_page %}
-                          <li>
-                            <a href="{{ site.baseurl }}/paginator.next_page_path">Older</a>
-                          </li>
-                          {% endif %}
-                        </ul>
-                        {% endif %}
-<!--
 						{% for post in site.posts %}
-                        
 						{% assign mod3 = forloop.index | modulo: 3 %}
 							<article>
 								<header>
@@ -95,7 +64,6 @@
 									<li><a href="{{ site.url }}/{{ post.url }}" class="button">Full Story</a></li>
 								</ul>
 							</article>
--->
 <!--
 							{% if mod3 == 0 %}
 							<article>
