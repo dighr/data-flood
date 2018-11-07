@@ -1,4 +1,0 @@
-AuthType Basic  
-AuthName "restricted area"  
-AuthUserFile /data-flood/private2/.htpasswd  
-require valid-user
