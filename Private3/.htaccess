@@ -1,4 +1,0 @@
-AuthType Basic  
-AuthName "restricted area"  
-AuthUserFile https://dighr.github.io/data-flood/private3/.htpasswd  
-require valid-user
