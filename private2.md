@@ -11,4 +11,4 @@ sitemap:
 
 {{site.url}}
 
-Test
+Testing htaccess
