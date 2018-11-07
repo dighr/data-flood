@@ -1,4 +1,4 @@
 AuthType Basic  
 AuthName "restricted area"  
-AuthUserFile https://dighr.github.io/data-flood/.htpasswd  
+AuthUserFile https://dighr.github.io/data-flood/private2/.htpasswd  
 require valid-user
