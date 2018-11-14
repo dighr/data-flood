@@ -1,9 +1,15 @@
 <ul class="links">
-  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ site.baseurl }}/">Home</a></li>   
+  <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ site.baseurl }}/">Home</a></li> 
+    <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ site.baseurl }}/about/">About</a></li>
+    <li class="{% if page.url contains '/challenges/' %} active {% endif %}"><a href="{{ site.baseurl }}/challenges/">Challenges</a></li>
+    <li class="{% if page.url contains '/participants/' %} active {% endif %}"><a href="{{ site.baseurl }}/participants/">Participants</a></li>
+    <li class="{% if page.url contains '/event-details/' %} active {% endif %}"><a href="{{ site.baseurl }}/event-details/">Event Details</a></li>
+    
+<!--
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ site.baseurl }}/blog/">Blog</a></li>
     <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ site.baseurl }}/about/">About</a></li>
     <li class="{% if page.url contains '/private/' %} active {% endif %}"><a href="{{ site.baseurl }}/private/">Private</a></li>    
- 
+ -->
     <!-- Remove Extra Pages From Nav
     <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ site.baseurl }}/about/">About</a></li>
   <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ site.baseurl }}/elements/">Elements Reference</a></li>

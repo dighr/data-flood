@@ -1,11 +1,11 @@
 # Site
-title:              Taking Advantage of the Data Flood
-bio:                'DIGHR Website'
-description:        "An invite-only international workshop hosted by the Dahdaleh Institute for Global Health Research (DIGHR) and the Lassonde School of Engineering (LSE) at York University that brings together leading humanitarian agencies, data scientists, and developers to collaborate on urgent data-related challenges in humanitarian response."
+title:              Emergency Data Science
+bio:                'Taking Advantage of the Data Flood'
+description:        "An International Workshop on Building Humanitarian Decision-Making Tools in the Age of Big Data."
 locale:             en_US
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://dighr.github.io/data-flood" # the base hostname & protocol for your site
-background_image:   images/main.jpeg
+background_image:   images/main2.jpeg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 formspree_thankyou_page: /data-flood/thank-you
 
