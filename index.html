@@ -48,11 +48,19 @@ sitemap:
 					<div id="main">
 						<!-- Featured Post -->
 							<article class="post featured">
-                                <h1>ABOUT</h1>
+                                <h1><a id="about"></a>ABOUT</h1>
                                 <h2>An International Workshop on Building Humanitarian Decision-Making Tools in the Age of Big Data</h2>
                                 <p>An invite-only international workshop hosted by the <b>Dahdaleh Institute for Global Health Research</b> (DIGHR) and the <b>Lassonde School of Engineering</b> (LSE) at York University that brings together leading humanitarian agencies, data scientists, and developers to collaborate on urgent data-related challenges in humanitarian response.</p>
-                                
-                                <h1>Challenges</h1>
+                            </article>
+                    </div>
+                                              
+                    <div class="transparent-div"><br><br></div> 
+                
+                    <div id="main">
+						<!-- Featured Post -->
+							<article class="post featured">
+                
+                                <h1><a id="challenges"></a>Challenges</h1>
                                 <div class="row">
                                     <div class="4u 12u$(small)"><h3>WASH Data Portal</h3>
                                     </div>
@@ -71,13 +79,31 @@ sitemap:
                                     <div class="4u$ 12u$(small)">             <h3>Water Optimization        Tool</h3>
                                     </div>
                                     </div>
+                        </article>
+                    </div>
+                
+                    <div class="transparent-div"><br><br></div> 
                                 
-                                <h1>WHO IS COMING?</h1>
+                        <div id="main">
+						      <!-- Featured Post -->
+							<article class="post featured">
+                                
+                                <h1><a id="participants"></a>WHO IS COMING?</h1>
                                 <p>We will bring together participants from five key groups needed to solve complex humanitarian data science challenges: Humanitarian Field &amp; Subject Matter Experts, Humanitarian Innovation Specialists, Data and Computer Science Researchers, Tech Developers, Ethicists &amp; Governance Specialists.
                                 <br><a href="participants">Click here to see the full list of participants and organizers.</a>
                                 </p>
                                 
-                                <h1>Event Details</h1>
+                            </article>
+                    </div>
+                
+                    <div class="transparent-div"><br><br></div> 
+                
+                    <div id="main">
+						          <!-- Featured Post -->
+				        <article class="post featured">
+                                
+                                
+                                <h1><a id="event-details"></a>Event Details</h1>
                                         <p>December 4-5, 2018<br>
                                 New Student Center, York University, Toronto<br>
                                 <a href="directions">Click here for directions to York, information about the event space, etc.</a></p>
@@ -92,8 +118,10 @@ sitemap:
                                     <div class="6u 12u$(small)"><p>Day 2 | December 5, 2018
                                         </p></div>
                                 </div>
-                            </article>
+                        </article>
 					</div>
+                
+                <div class="transparent-div"><br><br></div>
 
 				<!-- Footer -->
         {% include foot.html %}
@@ -102,7 +130,17 @@ sitemap:
 
 		<!-- Scripts -->
 		{% include scripts-main.html %}
-    {% include tracking.html %}
+        {% include tracking.html %}
+        
+                <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129294999-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-129294999-1');
+        </script>
 
 	</body>
 </html>
