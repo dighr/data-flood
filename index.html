@@ -27,14 +27,14 @@ sitemap:
 
 				<!-- Intro -->
 					<div id="intro">
-                        <h1>{{page.title}}</h1>
-						<h2>{{page.description}}</h2>
-                        <p><b>December 4 - 5, 2018 8:30AM - 5:00PM | Toronto</b></p>
+                        <h1 style="background-color: dimgray">{{page.title}}</h1>
+						<h2 style="background-color: dimgray">{{page.description}}</h2>
+                        <p style="background-color: dimgray"><b>December 4 - 5, 2018 8:30AM - 5:00PM | Toronto</b></p>
 					</div>
 
 				<!-- Header -->
 					<header id="header">
-						<a href="{{ site.baseurl }}/" class="logo">{{site.title}}</a>
+						<a href="{{ site.baseurl }}/" class="logo" style="background-color: dimgray">{{site.title}}</a>
 					</header>
 
 				<!-- Nav -->
@@ -50,7 +50,7 @@ sitemap:
 							<article class="post featured">
                                 <h1><a id="about"></a>ABOUT</h1>
                                 <h2>An International Workshop on Building Humanitarian Decision-Making Tools in the Age of Big Data</h2>
-                                <p>An invite-only international workshop hosted by the <b>Dahdaleh Institute for Global Health Research</b> (DIGHR) and the <b>Lassonde School of Engineering</b> (LSE) at York University that brings together leading humanitarian agencies, data scientists, and developers to collaborate on urgent data-related challenges in humanitarian response.</p>
+                                <p  >An invite-only international workshop hosted by the <b>Dahdaleh Institute for Global Health Research</b> (DIGHR) and the <b>Lassonde School of Engineering</b> (LSE) at York University that brings together leading humanitarian agencies, data scientists, and developers to collaborate on urgent data-related challenges in humanitarian response.</p>
                             </article>
                     </div>
                                               
@@ -132,15 +132,5 @@ sitemap:
 		{% include scripts-main.html %}
         {% include tracking.html %}
         
-                <!-- Global site tag (gtag.js) - Google Analytics -->
-        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129294999-1"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'UA-129294999-1');
-        </script>
-
 	</body>
 </html>
