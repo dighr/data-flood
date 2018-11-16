@@ -43,6 +43,12 @@ gem install s3_website
 - CloudFront link is http://dgvi5kwtyqanc.cloudfront.net/
 - CloudFront installation: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html#GettingStartedUploadContent
 
+# Airtable to JavaScript
+
+- Copy Airtable Node.js code to here: https://repl.it/repls/MeanBronzeClosedsource
+- Make a JSON Array from names list here: http://www.convertcsv.com/csv-to-json.htm
+- Loop through array with JavaScript and output names
+
 ## Credits
 ```
 Credits:
