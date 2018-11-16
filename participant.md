@@ -13,94 +13,29 @@ sitemap:
 
 <script>
 var array = [
-  [
-    'Prativa Baral',
-    ' York University'
-  ],
-  [
-    'Bobi Morris',
-    ' International Rescue Committee'
-  ],
-  [
-    'William Martin',
-    ' Catholic Relief Services'
-  ],
-  [
-    'Ruwan Rataynake',
-    ' London School of Hygiene & Tropical Medicine'
-  ],
-  [
-    'Paula Tenaglia',
-    ' ACF Canada'
-  ],
-  [
-    'Kusum Hachhethu',
-    ' WFP'
-  ],
-  [
-    'Sandie Walton-Ellery',
-    ' ACAPS'
-  ],
-  [
-    'Richard Matthew',
-    ' University of California - Irvine'
-  ],
-  [
-    'Jochen Schubert',
-    ' University of California - Irvine'
-  ],
-  [
-    'Sifat Reazi',
-    ' University of California - Irvine'
-  ],
-  [
-    'Lauren Bateman',
-    ' George Washington University'
-  ],
-  [
-    'Patrick Vinck',
-    ' Harvard Humanitarian Initiative'
-  ],
-  [
-    'Pavel Nabutovsky',
-    ' Quoin'
-  ],
-  [
-    'Chris Houston',
-    ' Grand Challenges Canad'
-  ],
-  [
-    'Cecilie Hestbæk',
-    ' Elrha'
-  ],
-  [
-    'Dan Joseph',
-    ' American Red Cross'
-  ],
-  [
-    'Daliah Adler',
-    ' York University'
-  ],
-  [
-    'Syed Imran Ali',
-    ' Dahdaleh Institute for Global Health Research'
-  ],
-  [
-    'Ali Asgary',
-    ' York University'
-  ],
-  [
-    'Mazyar Fallah',
-    ' York University'
-  ],
-  [
-    'Raphael Aguiar',
-    ' York University'
-  ],
-  [
-    'Parke Godfrey',
-    ' York University'
-  ]
+  ["Tino Kreutzer"," DIGHR"  ],
+  ["Prativa Baral"," York University"  ],
+  ["Bobi Morris"," International Rescue Committee"  ],
+  ["William Martin"," Catholic Relief Services"  ],
+  ["Ruwan Rataynake"," London School of Hygiene & Tropical Medicine"  ],
+  ["Paula Tenaglia"," ACF Canada"  ],
+  ["Kusum Hachhethu"," WFP"  ],
+  ["Sandie Walton-Ellery"," ACAPS"  ],
+  ["Richard Matthew"," University of California - Irvine"  ],
+  ["Jochen Schubert"," University of California - Irvine"  ],
+  ["Sifat Reazi"," University of California - Irvine"  ],
+  ["Lauren Bateman"," George Washington University"  ],
+  ["Patrick Vinck"," Harvard Humanitarian Initiative"  ],
+  ["Pavel Nabutovsky"," Quoin"  ],
+  ["Chris Houston"," Grand Challenges Canad"  ],
+  ["Cecilie Hestbæk"," Elrha"  ],
+  ["Dan Joseph"," American Red Cross"  ],
+  ["Daliah Adler"," York University"  ],
+  ["Syed Imran Ali"," Dahdaleh Institute for Global Health Research"  ],
+  ["Ali Asgary"," York University"  ],
+  ["Mazyar Fallah"," York University"  ],
+  ["Raphael Aguiar"," York University"  ],
+  ["Parke Godfrey"," York University"  ]
 ]
 
 var list = document.createElement('ul');
