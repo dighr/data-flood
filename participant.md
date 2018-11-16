@@ -41,7 +41,7 @@ var array = [
 var list = document.createElement('ul');
 for (let i = 0; i < array.length; i++) {
     var item = document.createElement('li');
-    item.appendChild(document.createTextNode(array[i][0] + " from " + array[i][1]));
+    item.appendChild(document.createTextNode(array[i][0] + ", " + array[i][1]));
     list.appendChild(item);
 }
 
