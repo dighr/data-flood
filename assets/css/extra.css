@@ -24,10 +24,6 @@ h2 {
     text-align: left;
 }
 
-.transparent-div {
-    opacity: 0.5;
-}
-
 .map-responsive{
     overflow:hidden;
     padding-bottom:56.25%;
