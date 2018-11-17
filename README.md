@@ -49,6 +49,10 @@ gem install s3_website
 - Make a JSON Array from names list here: http://www.convertcsv.com/csv-to-json.htm
 - Loop through array with JavaScript and output names
 
+# Route53 Domain
+
+- www.emergencydatascience.org
+
 ## Credits
 ```
 Credits:
