@@ -39,8 +39,8 @@ gem install s3_website
 
 # Amazon S3 and CloudFront
 
-- S3 link is http://data-flood.s3-website-us-east-1.amazonaws.com
-- CloudFront link is http://dgvi5kwtyqanc.cloudfront.net/
+- S3 link is http://emergencydatascience.org.s3-website-us-east-1.amazonaws.com
+- CloudFront link is d3s44ff9bo8gsz.cloudfront.net
 - CloudFront installation: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/GettingStarted.html#GettingStartedUploadContent
 
 # Airtable to JavaScript
