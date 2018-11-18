@@ -1,5 +1,5 @@
 # Taking Advantage of the Data Flood
-> Created with Massively theme from HTML5 UP
+> Created with Massively theme from HTML5 UP and iwiedenm https://github.com/iwiedenm/jekyll-theme-massively-src
 
 # Creating Password Encrypted Page
 
