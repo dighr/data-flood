@@ -45,7 +45,7 @@ gem install s3_website
 
 # Airtable to JavaScript
 
-- Copy Airtable Node.js code to here: https://repl.it/repls/MeanBronzeClosedsource
+- Copy Airtable Node.js code to here: https://repl.it/languages/nodejs
 - Make a JSON Array from names list here: http://www.convertcsv.com/csv-to-json.htm
 - Loop through array with JavaScript and output names
 
