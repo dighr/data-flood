@@ -53,6 +53,13 @@ gem install s3_website
 
 - www.emergencydatascience.org
 
+# Authentication via CloudFront
+
+- Create Lambda function from here: https://hackernoon.com/serverless-password-protecting-a-static-website-in-an-aws-s3-bucket-bfaaa01b8666
+- Create a CloudFront distribution
+- Go to CloudFront behaviour and under Lambda Function Associations create Viewer Request CloudFront Event.
+- The value to the Viewer Request should be the ARN of the Lambda funtion.
+
 ## Credits
 ```
 Credits:
