@@ -38,6 +38,12 @@ var array = [
   ["Parke Godfrey"," York University"  ]
 ]
 
+array.sort(function(a, b) {
+    var textA = a[0].toUpperCase();
+    var textB = b[0].toUpperCase();
+    return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
+});
+
 var list = document.createElement('ul');
 for (let i = 0; i < array.length; i++) {
     var item = document.createElement('li');
