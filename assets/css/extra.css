@@ -46,3 +46,12 @@ h2 {
 .dark-nav {
     background-color: rgba(0,0,0,.4);
 }
+
+#header .logo:hover {
+    border-color: #000000 !important;
+    color: #000000 !important
+}
+
+#wrapper {
+    background-color: red;
+}
