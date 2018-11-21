@@ -37,3 +37,8 @@ h2 {
     width:100%;
     position:absolute;
 }
+
+.main-heading {
+    background-color: rgba(0,0,0,.5);
+    padding: 0 6px;
+}

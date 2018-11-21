@@ -8,4 +8,4 @@ sitemap:
     changefreq: weekly
 ---
 
-Sorry, this page doesn't exist. Please click [here]({{ site.baseurl }}) to go back to the home page.
+Sorry, this page doesn't exist. Please click [here]({{ site.baseurl }}/) to go back to the home page.
