@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Testing Participants Page
-description: This is a test page.
+title: Participants
+description: All the participants in the event.
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -13,25 +13,25 @@ sitemap:
 
 <script>
 var array = [
-  ["Tino Kreutzer"," DIGHR"  ],
+  ["Tino Kreutzer"," York University"  ],
   ["Prativa Baral"," York University"  ],
   ["Bobi Morris"," International Rescue Committee"  ],
   ["William Martin"," Catholic Relief Services"  ],
   ["Ruwan Rataynake"," London School of Hygiene & Tropical Medicine"  ],
-  ["Paula Tenaglia"," ACF Canada"  ],
-  ["Kusum Hachhethu"," WFP"  ],
+  ["Paula Tenaglia"," Action Against Hunger Canada"  ],
+  ["Kusum Hachhethu"," World Food Program (mVAM)"  ],
   ["Sandie Walton-Ellery"," ACAPS"  ],
   ["Richard Matthew"," University of California - Irvine"  ],
   ["Jochen Schubert"," University of California - Irvine"  ],
   ["Sifat Reazi"," University of California - Irvine"  ],
-  ["Lauren Bateman"," George Washington University"  ],
+  ["Lauren Bateman"," IFRC"  ],
   ["Patrick Vinck"," Harvard Humanitarian Initiative"  ],
-  ["Pavel Nabutovsky"," Quoin"  ],
-  ["Chris Houston"," Grand Challenges Canad"  ],
+  ["Pavel Nabutovsky"," Quoin Inc."  ],
+  ["Chris Houston"," Grand Challenges Canada"  ],
   ["Cecilie Hestbæk"," Elrha"  ],
-  ["Dan Joseph"," American Red Cross"  ],
+  ["Dan Joseph"," IFRC"  ],
   ["Daliah Adler"," York University"  ],
-  ["Syed Imran Ali"," Dahdaleh Institute for Global Health Research"  ],
+  ["Syed Imran Ali"," York University"  ],
   ["Ali Asgary"," York University"  ],
   ["Mazyar Fallah"," York University"  ],
   ["Raphael Aguiar"," York University"  ],
