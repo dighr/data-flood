@@ -42,21 +42,21 @@
 		$this.each(function() {
 
 			var $t = $(this),
-//				$bg = $('<div class="bg"></div>').appendTo($t),
-//				on, off;
+				$bg = $('<div class="bg"></div>').appendTo($t),
+				on, off;
 
 			on = function() {
 
-//				$bg
-//					.removeClass('fixed')
-//					.css('transform', 'matrix(1,0,0,1,0,0)');
+				$bg
+					.removeClass('fixed')
+					.css('transform', 'matrix(1,0,0,1,0,0)');
 
 				$window
 					.on('scroll._parallax', function() {
 
 						var pos = parseInt($window.scrollTop()) - parseInt($t.position().top);
 
-//						$bg.css('transform', 'matrix(1,0,0,1,0,' + (pos * intensity) + ')');
+						$bg.css('transform', 'matrix(1,0,0,1,0,' + (pos * intensity) + ')');
 
 					});
 
@@ -64,9 +64,9 @@
 
 			off = function() {
 //
-//				$bg
-//					.addClass('fixed')
-//					.css('transform', 'none');
+				$bg
+					.addClass('fixed')
+					.css('transform', 'none');
 
 				$window
 					.off('scroll._parallax');
@@ -78,7 +78,7 @@
 				||	skel.vars.browser == 'edge'		// Edge
 				||	window.devicePixelRatio > 1		// Retina/HiDPI (= poor performance)
 				||	skel.vars.mobile
-                || skel.vars.browser == 'chrome')				// Mobile devices
+                ||  skel.vars.browser == 'chrome')				// Mobile devices
 					off();
 
 			// Enable everywhere else.
