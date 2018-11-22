@@ -59,8 +59,8 @@ p, h1, h2, h3, a {
 
 @font-face {
   font-family: 'HelveticaNeue-Thin';
-/*    src: url('/assets/fonts/helveticaneue') format('woff');*/
-  src: url('/assets/fonts/HelveticaNeue-Thin.woff') format('woff');
+    src: url('/assets/fonts/HelveticaNeue-Thin.woff') format('woff');
+/*    src: url('/assets/fonts/helveticaneue') format('woff2');*/
 }
 
 
