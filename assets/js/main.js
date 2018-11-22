@@ -47,18 +47,24 @@
 
 			on = function() {
 
-				$bg
-					.removeClass('fixed')
-					.css('transform', 'matrix(1,0,0,1,0,0)');
+//				$bg
+//					.removeClass('fixed')
+//					.css('transform', 'matrix(1,0,0,1,0,0)');
+//
+//				$window
+//					.on('scroll._parallax', function() {
+//
+//						var pos = parseInt($window.scrollTop()) - parseInt($t.position().top);
+//
+//						$bg.css('transform', 'matrix(1,0,0,1,0,' + (pos * intensity) + ')');
+//
+//					});
+                $bg
+					.addClass('fixed')
+					.css('transform', 'none');
 
 				$window
-					.on('scroll._parallax', function() {
-
-						var pos = parseInt($window.scrollTop()) - parseInt($t.position().top);
-
-						$bg.css('transform', 'matrix(1,0,0,1,0,' + (pos * intensity) + ')');
-
-					});
+					.off('scroll._parallax');
 
 			};
 
@@ -76,7 +82,7 @@
 			// Disable parallax on ..
 				if (skel.vars.browser == 'ie'		// IE
 				||	skel.vars.browser == 'edge'		// Edge
-				||	window.devicePixelRatio = 1		// Retina/HiDPI (= poor performance)
+				||	window.devicePixelRatio > 1		// Retina/HiDPI (= poor performance)
 				||	skel.vars.mobile)				// Mobile devices
 					off();
 
