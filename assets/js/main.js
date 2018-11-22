@@ -82,10 +82,9 @@
 
 			// Enable everywhere else.
 				else {
- 
-                    
+
 					skel.on('!large -large', on);
-					skel.on('+large', on);
+					skel.on('+large', off);
 
 				}
 
