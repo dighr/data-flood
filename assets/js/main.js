@@ -63,7 +63,7 @@
 			};
 
 			off = function() {
-//
+
 				$bg
 					.addClass('fixed')
 					.css('transform', 'none');
@@ -76,9 +76,10 @@
 			// Disable parallax on ..
 				if (skel.vars.browser == 'ie'		// IE
 				||	skel.vars.browser == 'edge'		// Edge
+                ||  skel.vars.browser == 'firefox'
+                ||  skel.vars.browser == 'chrome'
 				||	window.devicePixelRatio > 1		// Retina/HiDPI (= poor performance)
-				||	skel.vars.mobile
-                ||  skel.vars.browser == 'chrome')				// Mobile devices
+				||	skel.vars.mobile)				// Mobile devices
 					off();
 
 			// Enable everywhere else.
