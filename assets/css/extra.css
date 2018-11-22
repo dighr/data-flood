@@ -51,3 +51,13 @@ h2 {
     border-color: #000000 !important;
     color: #000000 !important
 }
+
+
+p, h1, h2, h3, a {
+    font-family: Arial;
+}
+
+
+#main>.post {
+    padding: 2.1875rem 4.0625rem 1.25rem;
+}
