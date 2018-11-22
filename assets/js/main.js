@@ -42,8 +42,8 @@
 		$this.each(function() {
 
 			var $t = $(this),
-				$bg = $('<div class="bg"></div>').appendTo($t),
-				on, off;
+//				$bg = $('<div class="bg"></div>').appendTo($t),
+//				on, off;
 
 			on = function() {
 
@@ -63,10 +63,10 @@
 			};
 
 			off = function() {
-
-				$bg
-					.addClass('fixed')
-					.css('transform', 'none');
+//
+//				$bg
+//					.addClass('fixed')
+//					.css('transform', 'none');
 
 				$window
 					.off('scroll._parallax');
