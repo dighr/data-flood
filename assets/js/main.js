@@ -84,7 +84,7 @@
 				else {
 
 					skel.on('!large -large', on);
-					skel.on('+large', off);
+					skel.on('+large', on);
 
 				}
 
