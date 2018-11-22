@@ -76,7 +76,7 @@
 			// Disable parallax on ..
 				if (skel.vars.browser == 'ie'		// IE
 				||	skel.vars.browser == 'edge'		// Edge
-				||	window.devicePixelRatio > 1		// Retina/HiDPI (= poor performance)
+				||	window.devicePixelRatio >= 1		// Retina/HiDPI (= poor performance)
 				||	skel.vars.mobile)				// Mobile devices
 					off();
 
@@ -84,7 +84,7 @@
 				else {
 
 					skel.on('!large -large', on);
-					skel.on('+large', on);
+					skel.on('+large', off);
 
 				}
 
