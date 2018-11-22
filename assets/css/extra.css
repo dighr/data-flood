@@ -64,7 +64,10 @@ p, h1, h2, h3, h4, a, li, ul {
 
 }
 
-
 #main>.post {
     padding: 2.1875rem 4.0625rem 1.25rem;
+}
+
+ul ul {
+    margin: 0;
 }
