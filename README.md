@@ -60,6 +60,14 @@ gem install s3_website
 - Go to CloudFront behaviour and under Lambda Function Associations create Viewer Request CloudFront Event.
 - The value to the Viewer Request should be the ARN of the Lambda funtion.
 
+# Must Invalidate CloudFront After a Push
+- CloudFront caches website for 24 hours. Must invalidate to refresh website.
+- Open CloudFront Management Console
+- Open CloudFront ID
+- Click Invalidations
+- Create Invalidation
+- Type in `/*` and invalidate
+
 ## Credits
 ```
 Credits:
