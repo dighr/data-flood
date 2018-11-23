@@ -41,6 +41,7 @@ h2 {
 .main-heading {
     background-color: rgba(0,0,0,.5);
     padding: 0 6px;
+    text-align: center;
 }
 
 .dark-nav {
