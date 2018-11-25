@@ -35,7 +35,7 @@ sitemap:
 
 				<!-- Header -->
 					<header id="header">
-						<a href="{{ site.baseurl }}/" class="logo" style="background-color: dimgray; font-family: HelveticaNeue-LightExt">{{site.title}}</a>
+						<a href="{{ site.baseurl }}/" class="logo" style="background-color: dimgray">{{site.title}}</a>
 					</header>
 
 				<!-- Nav -->
@@ -109,16 +109,9 @@ sitemap:
                     <div id="main">
 						          <!-- Featured Post -->
 				        <article class="post featured">
-                                
-                                
-                                <h1><a id="event-details"></a>Event Details</h1>
-                                        <p>December 4-5, 2018<br>
-                                New Student Center, York University, Toronto<br>
-                                <a href="directions">Click here for directions to York, information about the event space, etc.</a></p>
-                                
                                 <div class="row">
+                                    <h1><a id="event-details"></a>Event Details</h1>
                                     <div class="6u 12u$(small)">
-                                                     
                                     <p>Day 1 | December 4, 2018<br>
                                 8:30am - 5:00pm<br>Lunch and dinner included<br>Cocktail reception<br>
                                 7pm Dinner at Schulich dining hall<br><a href="agenda">Click here for the detailed agenda</a></p>
@@ -129,7 +122,20 @@ sitemap:
                         </article>
 					</div>
                 
-                <div><br><br></div>
+                    <div><br><br></div>
+                
+                    <div id="main">
+                                      <!-- Featured Post -->
+                            <article class="post featured">
+
+                                <h1><a id="directions"></a>Directions</h1>
+                                        <p> New Student Center, York University, Toronto<br>
+                                <a href="directions">Click here for directions to York, information about the event space, etc.</a></p>
+                                
+                            </article>
+					</div>
+                
+                    <div><br><br></div>
 
 				<!-- Footer -->
         {% include foot.html %}
