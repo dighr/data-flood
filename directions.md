@@ -42,14 +42,14 @@ All events take place at the Second Floor Convention Space, [New Student Centre 
     - Transfer to TTC Subway, take the Yonge-University-Spadina Line North towards “Vaughan Metropolitan Centre” and Exit at “York University” ($3.25 CAD)
 
 ### Parking
-Paid parking on campus is available ($15-20 per day). There are several lots available on campus, including three parking garages for visitors. [See map](http://maps.info.yorku.ca/files/2018/09/KEELE_Map_Sept-2018_k.pdf). 
+Paid parking on campus is available ($15-20 per day). There are several lots available on campus, including three parking garages for visitors. [See map](http://maps.info.yorku.ca/files/2018/09/KEELE_Map_Sept-2018.pdf). 
 
 ### Points of Interest
 * Hotel: Schulich Executive Learning Centre (56 Fine Arts Rd.) Tel: 416-736-5079  
 * Restaurant: Schulich Executive Dining Hall (111 Ian MacDonald Blvd)  
 
 
-[Link to PDF York University Map](http://maps.info.yorku.ca/files/2018/09/KEELE_Map_Sept-2018_k.pdf)
+[Link to PDF York University Map](http://maps.info.yorku.ca/files/2018/09/KEELE_Map_Sept-2018.pdf)
 
 
 
