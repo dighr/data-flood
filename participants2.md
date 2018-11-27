@@ -80,7 +80,8 @@ array.sort(function(a, b) {
 var x = document.getElementById("row");
 for (let i = 0; i < array.length; i++) {
     var div = document.createElement('div');
-    div.className = "4u boxes";
+    div.className = "4u 12u$(small)";
+    div.classList.add("boxes");
     
     var item = document.createElement('span');
     item.className = "name";
