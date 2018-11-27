@@ -65,3 +65,12 @@ p, ul, li {
 ul ul {
     margin: 0;
 }
+
+.boxes {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.name {
+    font-weight: bold;
+}
