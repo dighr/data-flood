@@ -1,27 +1,28 @@
 ---
 layout: page
-title: Testing About Page
-description: This is a test of the about page.
+title: About the Workshop
+description: About the workshop
 sitemap:
     priority: 0.7
-    lastmod: 2017-11-02
+    lastmod: 2017-11-26
     changefreq: weekly
 ---
-## About our Site
+## About the Event
 
-<span class="image left"><img src="{{ site.baseurl }}/images/pic04.jpg" alt="" /></span>
+This workshop is an invite-only event hosted by the newly created [Dahdaleh Institute for Global Health Research](http://dighr.yorku.ca) (DIGHR) and the [Lassonde School of Engineering](https://lassonde.yorku.ca/) (LSE) at York University. It brings together leading humanitarian agencies, data scientists, and developers from around the world to collaborate on urgent data-related challenges in humanitarian response.
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+The workshop will showcase and follow design-led methods for humanitarian response. This means stepping back to understand the wider problem that is being solved, validating one's assumptions about 'users' and 'the field', as well as the initial steps of the innovation cycle, such as prototyping.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+## The Challenges
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+Humanitarian responders are producing or have access to ever more data in our operational sphere. The question we now face is how can we use this data to improve decision-making in humanitarian response? In this workshop, we will bring together humanitarian organizations, data and computer scientists, tech developers, and ethics and governance specialists to collaborate on a number of specific field-driven challenges that require novel data science-driven solutions.
 
-<span class="image left"><img src="{{ site.baseurl }}/images/pic05.jpg" alt="" /></span>
+## Workshop Objectives
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+* **EXPLORE**: Explore operational challenges relating to data collection, management, analysis, visualization, and decision-making in humanitarian operations.
+* **DISCUSS**: Discuss existing data science applications in the humanitarian domain and lessons learned.
+* **CATALYZE**: Catalyze new collaborations responding to priority challenges.
+
+## Expected Outcomes
+
+During the Workshop, participants will create high-level concepts and business plans to address the specific challenges presented by humanitarian organizations. In the following weeks and months, the DIGHR team will work closely with interested participants in the design, fundraising, and implementation process to make these solutions a reality.
