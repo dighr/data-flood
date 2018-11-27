@@ -9,7 +9,7 @@ sitemap:
 ---
 ## About the Event
 
-This workshop is an invite-only event hosted by the newly created [Dahdaleh Institute for Global Health Research](http://dighr.yorku.ca) (DIGHR) and the [Lassonde School of Engineering](https://lassonde.yorku.ca/) (LSE) at York University. It brings together leading humanitarian agencies, data scientists, and developers from around the world to collaborate on urgent data-related challenges in humanitarian response.
+This workshop is an invite-only event hosted by the newly created [Dahdaleh Institute for Global Health Research](http://dighr.yorku.ca) (DIGHR) and the [Lassonde School of Engineering](https://lassonde.yorku.ca/) (LSE) at York University. The event brings together participants from five key groups needed to solve complex humanitarian data science challenges: Humanitarian Field &amp; Subject Matter Experts, Humanitarian Innovation Specialists, Data and Computer Science Researchers, Designers &amp; Engineers, Data Ethicists &amp; Governance Specialists.
 
 The workshop will showcase and follow design-led methods for humanitarian response. This means stepping back to understand the wider problem that is being solved, validating one's assumptions about 'users' and 'the field', as well as the initial steps of the innovation cycle, such as prototyping.
 
