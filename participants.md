@@ -48,6 +48,7 @@ var array = [
   ["Quazi Rahman"," York University"  ],
   ["Steven Wang"," York University"  ],
   ["Mary Wiktorowicz"," York University"  ],
+  ["J.L. Crosbie"," MSF Canada"  ],
   ["Oren Jalon"," Independent"  ],
   ["Ben Harvey"," UNHCR"  ],
   ["Jennie Phillips"," University of Toronto"  ],
@@ -68,7 +69,22 @@ var array = [
   ["Guillaume Dandurand"," Université de Sherbrooke"  ],
   ["Jean-Francois Dubé"," Université de Sherbrooke"  ],
   ["Gautham Krishnaraj"," Humanitarian Health Ethics Research Group & Field Innovation Team"  ],
-  ["Victoria Sauveplane"," University of Toronto"  ]
+  ["Victoria Sauveplane"," University of Toronto"  ],
+  ["Donna Dupont"," Purple Compass"  ],
+  ["Edmond Wach"," CartONG"  ],
+  ["Aaron de Mello"," Independent"  ],
+  ["Robert DiRaddo"," National Research Council Canada"  ],
+  ["Shubhdeep Nagi"," York University"  ],
+  ["Elena Gianni"," The New York Times"  ],
+  ["Daniel Sellen"," University of Toronto"  ],
+  ["Gabriela Gonzalez Martinez"," York University"  ],
+  ["Maxym Malynowsky"," REACH"  ],
+  ["Nasser Alsadhan"," Queen's University"  ],
+  ["James Madhier"," "  ],
+  ["Michael Moszczynski"," "  ],
+  ["Tarek Elgebely"," "  ],
+  ["Tamara Glazer"," "  ],
+  ["Anna Bellos"," "  ]
 ]
 
 array.sort(function(a, b) {
