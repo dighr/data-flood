@@ -9,7 +9,10 @@ sitemap:
 ---
 <h1>Participants</h1>
 
-<div id="participants"></div>
+<div id="row" class="row">
+
+</div>
+
 
 <script>
 var array = [
@@ -74,12 +77,25 @@ array.sort(function(a, b) {
     return (textA < textB) ? -1 : (textA > textB) ? 1 : 0;
 });
 
-var list = document.createElement('ul');
+var x = document.getElementById("row");
 for (let i = 0; i < array.length; i++) {
-    var item = document.createElement('li');
-    item.appendChild(document.createTextNode(array[i][0] + ", " + array[i][1]));
-    list.appendChild(item);
+    var div = document.createElement('div');
+    div.className = "4u 12u$(small)";
+    div.classList.add("boxes");
+    
+    var item = document.createElement('span');
+    item.className = "name";
+    item.appendChild(document.createTextNode(array[i][0]));
+    item.appendChild(document.createElement("br"));
+    div.appendChild(item);
+    
+    var org = document.createElement('span');
+    org.className = "org";
+    org.appendChild(document.createTextNode(array[i][1]));
+    div.appendChild(org);
+   
+    x.appendChild(div);
 }
-
-document.getElementById('participants').appendChild(list);
 </script>
+
+
