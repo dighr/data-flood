@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Global Nutrition Dashboard
-description: Global Nutrition Dashboard
+title: WASH Data Portal
+description: WASH Data Portal
 sitemap:
     priority: 0.7
-    lastmod: 2018-11-22
+    lastmod: 2018-11-27
     changefreq: weekly
 ---
 # WASH Data Portal
