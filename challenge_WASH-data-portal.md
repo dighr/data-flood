@@ -9,12 +9,11 @@ sitemap:
 ---
 # WASH Data Portal
 
-## Challenge Title: WASH Data Portal<br>
-## Proposed by: UNHCR & REACH
+### Challenge presented by UNHCR & REACH
 
 *Note: This is a joint challenge with two use cases from UNHCR (global) and REACH (South Sudan specific).*
 
-## UNHCR Challenge Statement:
+### UNHCR Challenge Statement:
 
 **The WASH Data Portal** would play the following key roles: Be the One Stop Shop for information about WASH Service Access for Refugees and IDPs.
 - Be used to identify people groups and geographical areas where WASH service access falls below minimum standards, or is lagging behind SDG development processes.  This then becomes the basis of advocacy for more resources to support improved WASH access in these areas/people groups. 
@@ -29,7 +28,7 @@ The new improved WASH Data Portal would include some of the following functional
 - The data portal would provide the function to generate reports (eg.  Trends of WASH access improvement/decline over time, geographical comparison of WASH access, comparison of refugee/IDP WASH access with host population (from SDG Data), comparison of Urban WASH access with Rural WASH access).  3 Key measures would be Litres of water per person per day, number of persons per toilet, number of persons per bath/shower.  Other Key measures would be required for comparative analysis with SDG 6 JMP data.
 - The Data Portal would support GIS functionality and enable geotagging of data, so that reports could include mapping and visualisation of the data.
 
-## REACH Challenge Statement:
+### REACH Challenge Statement:
 
 **Context:** Amongst WASH actors in South Sudan, it is difficult to know what information is available, and what is up to date. The current state of WASH IM has information spread across many services: ReliefWeb, HumanitarianResponse.info, Google Drive, emails, etc. Even for those who are knowledgeable about all the current components, it can still be difficult to find content. Important documents can be missed when making decisions, or out of date data is used simply because that is what is easiest to find.
 
