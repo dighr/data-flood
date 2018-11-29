@@ -30,7 +30,7 @@ All events take place at the Second Floor Convention Space, New Student Centre, 
 
 * 12:00p – 1:00p	Lunch 
 
-* 1:00p – 1:20p	Challenge 2: Global Nutrition Dashboard – Paula Tenaglia, Action Contre la Faim
+* 1:00p – 1:20p	Challenge 2: Global Nutrition Dashboard – Jana Daher, Action Contre la Faim
 * 1:20p – 1:40p 	Solution II: IRC Emergency Assessment Tool – Bobi Morris and Elena Chopyak, International Rescue Committee
 * 1:40p – 2:00p	Challenge 3: Safe Water Optimization Tool – Syed Imran Ali, York University
 * 2:00p – 2:20p	Coffee Break
@@ -40,7 +40,7 @@ All events take place at the Second Floor Convention Space, New Student Centre, 
 * 3:30p – 3:50p	Challenge 5: Natural Language Processing for Remote Needs Assessments – Bobi Morris, International Rescue Committee
 * 3:50p – 4:10p	What to Expect for Day 2; Participants assigned to working groups 
 * 5:00p – 6:00p 	Cocktail reception
-* 6:00p – 8:00p	Conference Dinner at Schulich Executive Dining Hall
+* 6:00p – 8:00p	Conference Dinner at Schulich Executive Dining Hall (Invited participants only)
 
 
 ## WORKSHOP DAY 2
