@@ -11,7 +11,7 @@ sitemap:
 # Agenda 
 December 4 and 5, 2018 | York University | Toronto
 
-Download a PDF version of the agenda [here](/agenda.pdf).
+Download a PDF version of the agenda [here](/documents/agenda.pdf).
 
 ## WORKSHOP DAY 1
 
