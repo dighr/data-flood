@@ -11,13 +11,13 @@ sitemap:
 # Agenda 
 December 4 and 5, 2018 | York University | Toronto
 
-Download a PDF version of the agenda [here](agenda.pdf).
+Download a PDF version of the agenda [here](/agenda.pdf).
 
 ## WORKSHOP DAY 1
 
 Day 1 will begin with a session on user-centred development of software solutions that will set the stage for the workshop, followed by a presentation on data ethics in the humanitarian domain. Representatives from five humanitarian organizations will present the Challenges that will be tackled on Day 2. Three humanitarian specialists will present their organization’s solutions to complex data-related challenges in order to share lessons learned for future work. Open to all invited participants and observers. 
 
-All events take place at the Second Floor Convention Space, New Student Centre, unless otherwise specified. Location information is available [here](http://emergencydatascience.org/directions).
+All events take place at the Second Floor Convention Space, New Student Centre, unless otherwise specified. Location information is available [here](/directions).
 
 * 8:30a – 9:00a	Registration and light breakfast
 * 9:00a – 9:10a	Opening remarks – James Orbinski, Director of the Dahdaleh Institute for Global Health Research
