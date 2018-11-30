@@ -21,7 +21,6 @@ var array = [
   ["Bobi Morris"," International Rescue Committee"  ],
   ["William Martin"," Catholic Relief Services"  ],
   ["Ruwan Rataynake"," London School of Hygiene & Tropical Medicine"  ],
-  ["Paula Tenaglia"," Action Against Hunger"  ],
   ["Kusum Hachhethu"," World Food Programme"  ],
   ["Sandie Walton-Ellery"," ACAPS"  ],
   ["Richard Matthew"," University of California - Irvine"  ],
@@ -87,7 +86,7 @@ var array = [
   ["Anna Bellos"," Global Public Health Consultant"  ],
   ["Peter Potsepp"," "  ],
   ["Claudia Emerson"," "  ]
-]   
+]
 
 array.sort(function(a, b) {
     var textA = a[0].toUpperCase();
