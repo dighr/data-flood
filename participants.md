@@ -89,7 +89,7 @@ var array = [
       ["Theresa Dinh"," York University"  ],
       ["Mikaela Maquiling"," York University"  ],
       ["Eileen Santiago"," York University"  ],
-      ["Shubhdeep Nagi"," undefined"  ],
+      ["Shubhdeep Nagi"," York University"  ],
       ["Fatima Sayedi"," York University"  ],
       ["Harpreet Singh"," York University"  ],
       ["Netta Kornberg"," York University"  ],
