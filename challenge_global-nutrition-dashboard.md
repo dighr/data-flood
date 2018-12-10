@@ -11,6 +11,8 @@ sitemap:
 
 ### Challenge presented by Action contre La Faim (Action Against Hunger)  
 
+***See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-2-global-nutrition-dashboard).***
+
 ### Problem
 
 Lack of timely and easy access to completed and validated nutrition sub-national survey results. 
