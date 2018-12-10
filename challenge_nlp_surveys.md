@@ -10,6 +10,9 @@ sitemap:
 # Natural Language Processing for Humanitarian Survey Work
 ### Challenge presented by International Rescue Committee
 
+***See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-5-nlp).***
+***See Working Group Solution Pres [here](https://docs.google.com/presentation/d/1lAq-8Ab0IOk7sMXjtUNYF2hH7zDqsLjqTT96ezi_8ts/edit?usp=sharing).***
+
 ### The problem
 * Better understand the needs, desires, and opinions of the affected population (especially beneficiaries) by extending regular surveys to include remote data collection and processing of qualitative responses to open-ended questions.
 * Maintain communication with the affected population, including beneficiaries and non- or potential beneficiaries, about services provided, decisions taken.
