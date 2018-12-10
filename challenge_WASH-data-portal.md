@@ -13,6 +13,11 @@ sitemap:
 
 *Note: This is a joint challenge with two use cases from UNHCR (global) and REACH (South Sudan specific).*
 
+***See UNHCR Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-4-wash-data-portal-unhcr).***
+***See REACH South Sudan Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-4-wash-data-portal-reach).***
+***See Working Group Solution Pres [here](https://www.slideshare.net/dighr/approach-to-challenge-4-global-wash-data-portal).***
+
+
 ### UNHCR Challenge Statement:
 
 **The WASH Data Portal** would play the following key roles: Be the One Stop Shop for information about WASH Service Access for Refugees and IDPs.
