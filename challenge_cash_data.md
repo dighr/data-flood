@@ -10,8 +10,8 @@ sitemap:
 # Taking Advantage of Cash Delivery Data 
 
 ### Challenge presented by Catholic Relief Services
-### See Challenge Presentatation here: https://www.slideshare.net/dighr/challenge-1-big-data-and-cash
-### See Working Group Solution Pres here: https://www.slideshare.net/dighr/challenge-1-cash-big-data-working-group-solution
+See Challenge Presentatation [here](https://www.slideshare.net/dighr/challenge-1-big-data-and-cash).
+See Working Group Solution Pres here: https://www.slideshare.net/dighr/challenge-1-cash-big-data-working-group-solution
 
 ### Goal
 
