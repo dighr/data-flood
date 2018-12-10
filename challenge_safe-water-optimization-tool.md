@@ -11,6 +11,9 @@ sitemap:
 
 ### Challenge presented by Médecins Sans Frontières (MSF/Doctors Without Borders)
 
+***See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-3-safe-water-opt).***
+***See Working Group Solution Pres [here](https://docs.google.com/presentation/d/1YOADG7BngUBtLVl_2hVgWgrQn1CRSoHxQKa1Se_J2Qo/edit?usp=sharing).***
+
 ### Goal
 
 There is an urgent need to develop evidence-based guidance for water chlorination in emergencies that ensures there is sufficient chlorine protection so that water is safe to drink at the point of consumption in refugee/IDP camps in order to help prevent waterborne diseases among these vulnerable populations.
