@@ -8,5 +8,5 @@ sitemap:
     changefreq: weekly
 ---
 
-<iframe class="slideshow-iframe" src="/slides/my-pics1.html"
+<iframe class="slideshow-iframe" src="{{ site.baseurl }}/slides/my-pics1.html"
 style="width:100%" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>`
