@@ -12,6 +12,7 @@ sitemap:
 ### Challenge presented by Action contre La Faim (Action Against Hunger)  
 
 ***See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-2-global-nutrition-dashboard).***
+***See Working Group Solution Pres [here](https://www.slideshare.net/dighr/approach-to-challenge-2-global-nutrition-dashboard).***
 
 ### Problem
 
