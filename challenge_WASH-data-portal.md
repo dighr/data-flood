@@ -54,4 +54,4 @@ The new improved WASH Data Portal would include some of the following functional
 9. One of the reasons HumanitarianResponse.info had become the latest WASH IM portal was that it offered a very flexible way to curate content that made it easier to navigate than a filterable database. Unfortunately, there was no way to store information in a standardized way there, and most content became links to a Google Drive, links which sometimes break. The platform needs to be able to address this problem as well and provide a guided experience for new users without losing its structure.
 10. The visualizations provided by the platform are very data-intensive, and do not support offline use, making it difficult to access in South Sudan. There are existing solutions that provide offline-capable interactive visualizations, and these should be looked at to see how it could bring the data to a larger audience. 
 
-<a href="WASH_update">Click here for an update</a>
+<a href="/WASH_update">Click here for an update</a>
