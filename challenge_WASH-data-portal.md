@@ -16,7 +16,7 @@ sitemap:
 At the 2018 Emergency Data Science Workshop, the Office of the United Nations High Commission for Refugees (UNHCR) and the REACH Initiative presented a joint challenge. The UNHCR was looking to develop a WASH Data Portal that would be a “one stop shop” for information about WASH service access for refugees and IDPs globally. REACH was aiming to develop a WASH Information Management (IM) Platform, specifically for South Sudan. 
 
 #### Learn More
-<a href="WASH-challenge-statement">Full Challenge Statement</a><br>
+<a href="{{ site.baseurl }}/WASH-challenge-statement/">Full Challenge Statement</a><br>
 UNHCR Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-4-wash-data-portal-unhcr).<br>
 REACH South Sudan Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-4-wash-data-portal-reach).<br>
 Working Group Solution Pres [here](https://www.slideshare.net/dighr/approach-to-challenge-4-global-wash-data-portal).<br>
@@ -31,5 +31,5 @@ Working Group Solution Pres [here](https://www.slideshare.net/dighr/approach-to-
 Guided by the agile development methodology presented at the 2018 EDS Workshop, UNHCR has built and is refining a new WASH Dashboard for Refugee Settings, which is now live on the web and being positively utilized by UNHCR Country Programs.
 
 #### Read More
-<a href="WASH-UNHCR-update">UNHCR update & reflections from the presenter</a><br>
-<a href="WASH-REACH-update">REACH update</a>
+<a href="{{ site.baseurl }}/WASH-UNHCR-update">UNHCR update & reflections from the presenter</a><br>
+<a href="{{ site.baseurl }}/WASH-REACH-update">REACH update</a>
