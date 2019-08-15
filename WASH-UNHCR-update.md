@@ -13,7 +13,7 @@ sitemap:
 ## Update from the UNHCR
 
 <blockquote>"The Emergency Data Science Workshop was incredibly useful for the UNHCR Water and Sanitation Team. The EDS Workshop provided a networking opportunity to meet experts in Data Science and understand the full stack web technologies required to develop the data portal. Working through our particular challenge in detail helped us understand our clients (the main users of the data portal), what real-time and historical information they needed to make decisions, and where we should invest our time and energy. The session gave us a viable methodology for incrementally developing the WASH Data Portal and gave us the confidence that it was a challenge we could overcome."<br>
-&nbsp;
+
 <strong>Ben Harvey, UNHCR WASH Team</strong></blockquote>
 
 
