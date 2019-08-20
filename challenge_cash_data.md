@@ -1,15 +1,18 @@
 ---
 layout: page
-title: Cash Delivery Data Challenge Statement
-description: Cash Delivery Data Challenge Statement
+title: Cash Delivery Data
+description: Cash Delivery Data
 sitemap:
     priority: 0.7
     lastmod: 2018-11-23
     changefreq: weekly
 ---
-# Taking Advantage of Cash Delivery Data Challenge Statement
+# Taking Advantage of Cash Delivery Data
 
 ### Challenge presented by Catholic Relief Services
+
+***See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-1-big-data-and-cash).***
+***See Working Group Solution Pres [here](https://www.slideshare.net/dighr/challenge-1-cash-big-data-working-group-solution).***
 
 ### Goal
 
