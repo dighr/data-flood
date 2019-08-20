@@ -15,8 +15,8 @@ Catholic Relief Services’ challenge focused on how we can improve cash- and ma
 
 #### Learn More
 <a href="{{ site.baseurl }}/cash-challenge-statement/">Full Challenge Statement</a><br>
-***See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-1-big-data-and-cash).***
-***See Working Group Solution Pres [here](https://www.slideshare.net/dighr/challenge-1-cash-big-data-working-group-solution).***
+Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-1-big-data-and-cash)<br>
+Working Group Solution Pres [here](https://www.slideshare.net/dighr/challenge-1-cash-big-data-working-group-solution)
 
 <blockquote>
 "With its participation to the Emergency Data Science workshop, CRS is part of a new humanitarianism where Big Data promises better humanitarian access [and] better participation of people affected by conflict and natural disaster..."<br>
