@@ -24,4 +24,3 @@ At the 2018 Emergency Data Science Workshop, Médecins Sans Frontières (MSF) an
 ## Read More
 <a href="{{ site.baseurl }}/challenge_safe-water-optimization-tool-challenge-statement/">Full Challenge Statement</a><br>
 See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-3-safe-water-opt)
-See Working Group Solution Pres [here](https://docs.google.com/presentation/d/1YOADG7BngUBtLVl_2hVgWgrQn1CRSoHxQKa1Se_J2Qo/edit?usp=sharing)
