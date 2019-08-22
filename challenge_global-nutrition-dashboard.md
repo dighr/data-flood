@@ -9,53 +9,25 @@ sitemap:
 ---
 # Global Nutrition Dashboard
 
-### Challenge presented by Action contre La Faim (Action Against Hunger)  
+## Challenge presented by Action contre La Faim (Action Against Hunger)  
 
-***See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-2-global-nutrition-dashboard).***
-***See Working Group Solution Pres [here](https://www.slideshare.net/dighr/approach-to-challenge-2-global-nutrition-dashboard).***
+### Background
+At the December 2018 Emergency Data Science workshop, Action Against Hunger Canada (Action contre La Faim, ACF) presented a challenge to develop a new Global Nutrition Dashboard, part of the new SMART+ toolkit ACF is developing to streamline the collection, management, and interpretation of nutritional assessment data in emergencies. During the workshop, a multi-disciplinary team of designers, epidemiologists, GIS specialists, nutrition specialists, ethics and governance specialists, computer and data scientists, and software developers worked together to provide feedback and guidance to ACF on their challenge. The working group consisted of representatives from the London School of Hygiene & Tropical Medicine, Groundswell Projects, ACF, Université de Sherbrooke, McMaster University, ImmerLearn Inc., CartONG, University of Toronto, and York University.
 
-### Problem
+<blockquote>"It was a great pleasure to attend the international workshop hosted by Dahdaleh Institute for Global Health Research (DIGHR) and the Lassonde School of Engineering (LSE) at York University in December 2018. The workshop was very well organized and brought together a diverse group of experts working in both non-profit and private sectors. The theme of the workshop facilitated a strong synergy between data science experts and humanitarian actors with the aim to advance decision making for humanitarian response through optimal use of data.<br>
 
-Lack of timely and easy access to completed and validated nutrition sub-national survey results. 
+As a researcher and a humanitarian actor who is spearheading the use of technology and innovation in the field of nutrition assessments, attending the workshop proved to be an invaluable platform for presenting the data challenge (SMARTplus) and receiving tailored feedback from IT experts. In addition, I have gained valuable insights on the technological advancements in other humanitarian sectors as well as relevant data science tools and processes that ensure product viability and success.<br>
 
-Most countries lack a systematic way of centrally storing, accessing and visualizing validated nutrition surveys conducted at sub-national level. This data is crucial for identification of humanitarian needs, proper planning of targeted nutrition programs and responses, as well as effective resource management and allocation. Access to nutrition survey reports (PDF format) and summaries of survey results (Excel format – template provided in the Information Management (IM) toolkit) is usually granted through direct email request from the stakeholder undertaking the survey or the national nutrition cluster/sector. Currently, there is no aggregator/ dashboard that allows for consolidation and dissemination of key nutrition indicators derived from validated sub-national surveys. This gap in accessibility leads to an underutilization of data at sub-national, national, regional and global level. 
+The event also provided an opportunity for building a strong professional network that has proved to be useful in my current work on innovation. In fact, as a result of the event, Action Against Hunger Canada is currently working with one of the IT companies that were represented at the workshop."<br>
 
-### What is the proposed solution to this challenge?
+<strong>Jana Daher, ACF</strong></blockquote>
 
-Timely collation of validated nutrition survey results through a central aggregator and online dashboard for enhanced analysis, visualization, and wider dissemination of data. 
-- The aggregator combines raw data from all SMART surveys. It is a global repository of raw datasets synchronized from mobile data collection systems pending stakeholder consent. 
-- The dashboard analyzes data and visualizes survey results. It uses deep analysis and derivative learning to display a summary of key results processed **either directly from the aggregator’s raw datasets or indirectly from summaries of survey results (using the IM toolkit template).** It will be managed through an established system such as the Global Nutrition Cluster (GNC).
+### Progress
+- The workshop provided a venue for ACF to present their data-related challenge and receive tailored feedback from IT experts, as well as to learn about other technological advancements in the humanitarian sector and about relevant data science tools and processes for product viability and success from industry experts. The design presentation from Pivotal Act by Aly Blenkin specifically encouraged ACF to take a design-centric approach to their challenge.
+- During the workshop, ACF also developed connections with York University researchers, which led to development of new research grant applications. ACF remains keen to explore big data-related questions with researchers as the flow of SMART+ data starts to come in over the next one to two years. 
+- April 2019: ACF completes an exploration of technical design options for the components of the SMART+ toolkit and launches work to build these tools with external donor support over the next three years. 
 
-### What has been done so far?
-
-The GNC has attempted to collect results through manually filling out standardized excel-based templates (the IM toolkit), which is populated with sub-national survey results and hosted by the nutrition cluster at country-level. The IM toolkit will be revised to improve on content and user experience prior to its integration into the dashboard.
-
-UNICEF uses NutriDash, an internal data platform to collect and share data on nutrition programs from 110 countries (upload restricted to UNICEF staff). Building on experiences from NutriDash, it is possible to develop a similar system for the collection of sub-national survey data.
-
-The National Information Platforms for Nutrition (NIPN) has designed and nearly completed the development of an aggregator for survey data. The source code may be used as a base for the development of the proposed survey aggregator. 
-
-### Who are the key players?
-
-The GNC (technical guidance, cluster/sector partners mobilization, dashboard hosting), UNICEF (technical guidance based on experience with NutriDash), Action Against Hunger Canada-SMART (technical guidance and administrative support in designing and developing the solution), World Food Programme (coordination and management of data), and York University-Information Retrieval and Knowledge Management Research Lab (development of solution).
-
-### What hurdles will a solution have to overcome?
-
-Prior to development, a deep needs assessment will be required to inform the development of the solution. An analysis of available codes and required resources, softwares, languages will be conducted in order to produce a detailed blueprint of the solution. Additionally, the IM tools need to be simplified (succinct and easy to use) and made compatible with the dashboard in order to reduce the time spent in compiling and collating data from different sources. This step will require multiple consultations with the technical teams involved and with experienced IM officers and cluster coordinators at country-level. 
-
-During development, the engineers will need to build an Application Program Interface (API) to allow the aggregator to sync data from available platforms and to the dashboard. They will also need to be sensitized on the types of trend analyses required by the nutrition sector. 
-
-Following the development phase, the proposed solution could face challenges and barriers during its implementation: 
-- Problems of connectivity.
-- Data sensitivity.
-- Upload of un-validated data.
-- Additional time required from partners and IM officers when choosing to upload a summary of the survey rather than sharing raw data.
-
-### What are the possibilities you see for better leveraging emerging data science & AI capabilities?
-
-**Data transfer and synchronization** – Leveraging on mobile data collection systems that have digitized the process of data collation and on solutions for software interaction. With the use of API, the aggregator will sync data from different mobile data collection and analysis platforms and the dashboard will provide synchronized options to access survey data from different contexts through the aggregator.
-
-**Data analysis** – a. Replicating the available analyses in NutriDash and graphing and visualizing trends on the proposed dashboard; b. Ensuring compatibility of the aggregator and dashboard with all operating systems. 
-
-**Data storage** – Allowing long-term data storage and archiving on both the aggregator and dashboard. Security and confidentiality measures will need to be in place to avoid data breach.
-
-**Data dissemination** – Linking the dashboard to social media platforms. This option can improve the dissemination of information.
+### Read More
+<a href="{{ site.baseurl }}/global-nutrition-dashboard-challenge-statement/">Full Challenge Statement</a><br>
+See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-2-global-nutrition-dashboard)<br>
+See Working Group Solution Pres [here](https://www.slideshare.net/dighr/approach-to-challenge-2-global-nutrition-dashboard)
