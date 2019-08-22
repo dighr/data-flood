@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "One Stop Shop" for WASH info for refugees and IDPs Challenge Statement
-description: "One Stop Shop" for WASH info for refugees and IDPs Challenge Statement
+title: One Stop Shop for WASH info for refugees and IDPs Challenge Statement
+description: One Stop Shop for WASH info for refugees and IDPs Challenge Statement
 sitemap:
     priority: 0.7
     lastmod: 2019-08-15
