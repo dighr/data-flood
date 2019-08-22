@@ -1,27 +1,27 @@
 ---
 layout: page
-title: Global Nutrition Dashboard
-description: Global Nutrition Dashboard
+title: Finding Life-Saving Information in Routine Water Quality Monitoring Data 
+description: Finding Life-Saving Information in Routine Water Quality Monitoring Data 
 sitemap:
     priority: 0.7
     lastmod: 2018-11-22
     changefreq: weekly
 ---
-# Safe Water Optimization Tool
+# Finding Life-Saving Information in Routine Water Quality Monitoring Data
 
-### Challenge presented by Médecins Sans Frontières (MSF/Doctors Without Borders)
+## Challenge presented by Médecins Sans Frontières (MSF/Doctors Without Borders)
 
-***See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-3-safe-water-opt).***
-***See Working Group Solution Pres [here](https://docs.google.com/presentation/d/1YOADG7BngUBtLVl_2hVgWgrQn1CRSoHxQKa1Se_J2Qo/edit?usp=sharing).***
+### Background
+At the 2018 Emergency Data Science Workshop, Médecins Sans Frontières (MSF) and the Dahdaleh Institute for Global Health Research (DIGHR) presented their challenge to develop a decision-support tool that could take routinely collected water quality monitoring data and use it to generate site-specific chlorination guidance that ensures water is safe to drink in refugee/IDP camps. During the workshop, MSF and DIGHR explored their challenge with a group of computer scientists, ethics and governance specialists, designers, statisticians, and machine learning specialists from MSF, Université de Sherbrooke, New York Times, Grand Challenges Canada, and York University. 
 
-### Goal
+### Progress
+- Prior to the workshop, MSF and DIGHR obtained funding from the Achmea Foundation and Grand Challenges Canada to develop a machine learning-enabled Safe Water Optimization Tool (SWOT) and to carry out proof-of-concept pilot trials at multiple emergency field sites around the world. 
+- Through early 2019, the team developed the analytical back-end for the SWOT. Two distinct analytical engines were built, one that utilized artificial neural networks (ANN), and another that utilized engineering optimization (EO) techniques. The ANN and EO analytical engines were built and tested using previous field data from MSF from refugee camps in South Sudan, Jordan, Rwanda, and Tanzania.
+- In summer 2019, the team started work on the front-end website for the SWOT where users will be able to upload their water quality monitoring data in order to obtain an water treatment recommendation for their unique field site. The SWOT web tool is anticipated to go live mid-September. In the meanwhile, a project information page is live: https://www.safeh2o.app/
+- July-Aug 2019: the team launched its first proof-of-concept field trial in the Rohingya refugee camps in Cox’s Bazaar, Bangladesh. Data collection will proceed until the end of the year, during which time the SWOT web tool will be used to analyse data and generate water treatment recommendations that will be implemented at the site.  
+- The team has also started to develop two additional remote field pilot sites with UNHCR at refugee camps in Tanzania and Ethiopia (tentative) to take place in the Fall 2019. 
 
-There is an urgent need to develop evidence-based guidance for water chlorination in emergencies that ensures there is sufficient chlorine protection so that water is safe to drink at the point of consumption in refugee/IDP camps in order to help prevent waterborne diseases among these vulnerable populations.
-
-### Problem
-
-Ensuring access to adequate quantities of quality safe water is essential for preventing morbidity and mortality associated with waterborne diseases in refugee and internally displaced persons (IDP) camps. Chlorination is one of the most widely used approaches for ensuring water is safe to drink in emergencies globally because of its ease of use, low cost, and importantly, the residual protection it provides against pathogenic recontamination. As such, humanitarian organizations have produced a number of guidelines for using chlorination to treat water during emergencies. 
-
-The problem however is that the current guidelines for water chlorination in humanitarian response are, remarkably, not based on any evidence from emergency settings. Because of this, the current guidelines often fail to ensure there is enough chlorine residual in the water supply in refugee/IDP camps in order to protect it from recontamination by waterborne pathogens. This contributes to the spread of waterborne diseases among camp populations. 
-
-In response to this gap, MSF is developing a Safe Water Optimization Tool (SWOT) that can apply advanced data analytics and new machine learning capabilities to the routine water quality monitoring data that humanitarian agencies already collect for reporting purposes, in order to generate customized water chlorination guidance that is evidence-based, site-specific, and demonstrably ensures that water is safe to drink—for any emergency field site around the world. This field-facing, web-based tool will help humanitarians ensure water is safe to drink in emergencies zones globally.
+## Read More
+<a href="{{ site.baseurl }}/challenge_safe-water-optimization-tool-challenge-statement/">Full Challenge Statement</a><br>
+See Challenge Presentation [here](https://www.slideshare.net/dighr/challenge-3-safe-water-opt)
+See Working Group Solution Pres [here](https://docs.google.com/presentation/d/1YOADG7BngUBtLVl_2hVgWgrQn1CRSoHxQKa1Se_J2Qo/edit?usp=sharing)
