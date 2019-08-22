@@ -1,20 +1,16 @@
 ---
 layout: page
-title: WASH Challenge Statement
-description: WASH Challenge Statement
+title: "One Stop Shop" for WASH info for refugees and IDPs Challenge Statement
+description: "One Stop Shop" for WASH info for refugees and IDPs Challenge Statement
 sitemap:
     priority: 0.7
     lastmod: 2019-08-15
     changefreq: weekly
 ---
 
-# WASH Data Portal Challenge Statement
+# "One Stop Shop" for WASH info for refugees and IDPs Challenge Statement
 
-### Challenge presented by UNHCR & REACH
-
-*Note: This is a joint challenge with two use cases from UNHCR (global) and REACH (South Sudan specific).*
-
-### UNHCR Challenge Statement:
+## Challenge presented by UNHCR
 
 **The WASH Data Portal** would play the following key roles: Be the One Stop Shop for information about WASH Service Access for Refugees and IDPs.
 - Be used to identify people groups and geographical areas where WASH service access falls below minimum standards, or is lagging behind SDG development processes.  This then becomes the basis of advocacy for more resources to support improved WASH access in these areas/people groups. 
