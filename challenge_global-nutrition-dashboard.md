@@ -15,9 +15,9 @@ sitemap:
 At the December 2018 Emergency Data Science workshop, Action Against Hunger Canada (Action contre La Faim, ACF) presented a challenge to develop a new Global Nutrition Dashboard, part of the new SMART+ toolkit ACF is developing to streamline the collection, management, and interpretation of nutritional assessment data in emergencies. During the workshop, a multi-disciplinary team of designers, epidemiologists, GIS specialists, nutrition specialists, ethics and governance specialists, computer and data scientists, and software developers worked together to provide feedback and guidance to ACF on their challenge. The working group consisted of representatives from the London School of Hygiene & Tropical Medicine, Groundswell Projects, ACF, Université de Sherbrooke, McMaster University, ImmerLearn Inc., CartONG, University of Toronto, and York University.
 
 <blockquote>"It was a great pleasure to attend the international workshop hosted by Dahdaleh Institute for Global Health Research (DIGHR) and the Lassonde School of Engineering (LSE) at York University in December 2018. The workshop was very well organized and brought together a diverse group of experts working in both non-profit and private sectors. The theme of the workshop facilitated a strong synergy between data science experts and humanitarian actors with the aim to advance decision making for humanitarian response through optimal use of data.<br>
-&nbsp;
+<br>
 As a researcher and a humanitarian actor who is spearheading the use of technology and innovation in the field of nutrition assessments, attending the workshop proved to be an invaluable platform for presenting the data challenge (SMARTplus) and receiving tailored feedback from IT experts. In addition, I have gained valuable insights on the technological advancements in other humanitarian sectors as well as relevant data science tools and processes that ensure product viability and success.<br>
-&nbsp;
+<br>
 The event also provided an opportunity for building a strong professional network that has proved to be useful in my current work on innovation. In fact, as a result of the event, Action Against Hunger Canada is currently working with one of the IT companies that were represented at the workshop."<br>
 
 <strong>Jana Daher, ACF</strong></blockquote>
